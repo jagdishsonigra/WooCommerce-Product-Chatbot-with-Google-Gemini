@@ -4,7 +4,7 @@ Features
 Fetches product data from a WooCommerce store via its REST API.
 Uses Google Gemini API to generate conversational responses based on user queries.
 Provides product details such as name, price, and description.
-Offers links to product pages.
+Offers links to product pages. 
 Responds politely and provides product recommendations, guiding users according to their preferences (e.g., budget, use case).
 Handles queries like "Tell me about jackets," "What are your best-selling shoes?" or "I want something cheap."
 Gracefully informs the user if the requested product is unavailable and suggests similar products if possible.
