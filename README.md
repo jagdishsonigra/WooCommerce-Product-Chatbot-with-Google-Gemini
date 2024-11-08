@@ -78,7 +78,7 @@ Once the bot is running, you can interact with it by typing product-related quer
 
 The chatbot is designed to guide the user through the product selection process, providing helpful and concise responses based on the available products from the WooCommerce store.
 ### 7. Sample Output
-![Product Image](Output.png)
+![Product Image](/output.png)
 ### 8. Acknowledgements
 
 - **Google Gemini API**: For generating intelligent and conversational responses.
