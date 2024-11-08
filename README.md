@@ -37,6 +37,7 @@ You can use `pip` to install the required dependencies:
 
 ```bash
 pip install -r requirements.txt
+```
 
 ### 3. Configuration
 
@@ -54,6 +55,7 @@ After setting up your API credentials, you can start the chatbot by running the 
 
 ```bash
 python chatbot.py
+```
 
 ### 5. Example Queries
 
