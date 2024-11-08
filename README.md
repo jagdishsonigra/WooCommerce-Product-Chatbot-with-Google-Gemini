@@ -17,9 +17,10 @@ Installation
 1. Clone the repository
 bash
 Copy code
-git clone https://github.com/your-username/woocommerce-product-chatbot.git
-cd woocommerce-product-chatbot
-2. Install required dependencies
+git clone https://github.com/jagdishsonigra/WooCommerce-Product-Chatbot-with-Google-Gemini.git
+cd WooCommerce-Product-Chatbot-with-Google-Gemini
+
+3. Install required dependencies
 You can use pip to install the required dependencies:
 
 bash
