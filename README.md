@@ -29,6 +29,7 @@ Before you begin, ensure you have the following:
 ```bash
 git clone https://github.com/jagdishsonigra/WooCommerce-Product-Chatbot-with-Google-Gemini.git
 cd WooCommerce-Product-Chatbot-with-Google-Gemini
+```bash
 
 ### 2. Install required dependencies
 
@@ -36,7 +37,6 @@ You can use `pip` to install the required dependencies:
 
 ```bash
 pip install -r requirements.txt
-```bash
 
 ### 3. Configuration
 
